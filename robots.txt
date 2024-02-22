@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /animations
+Disallow: /illustrations
+Disallow: /portfolio
+Disallow: /design-concepts
+Disallow: /about-us
+Disallow: /contact-us
+Disallow: /thematic-events
+Disallow: /digital-media-creations
+Disallow: /video-productions
+
+Allow: /animations.html
+Allow: /illustrations.html
+Allow: /portfolio.html
+Allow: /design-concepts.html
+Allow: /about-us.html
+Allow: /contact-us.html
+Allow: /thematic-events.html
+Allow: /digital-media-creations.html
+Allow: /video-productions.html
